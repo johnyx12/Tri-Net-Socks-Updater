@@ -1,5 +1,5 @@
 {
-"newVersion": "1.0.11",
+"newVersion": "1.0.12",
 "apkUrl": "https://play.google.com/store/apps/details?id=com.mytrinetsocksapp",
 "versionNotes":"
 • Pag wlang lumabas na update sa playstore please clear data playstore app din check update ulit
@@ -9,5 +9,6 @@
 • Added Custom Setup
 • Fixed some known errors
 • Fixed for android 10-11
+- Fixed to Android 5&6
 "
 }
